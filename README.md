@@ -1,31 +1,14 @@
 ### Hi there 👋
 
-<!--
-**danielleallyssa/danielleallyssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Danielle
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# Hi 👋, I'm Danielle
 ### A Front-End Developer & Designer in Connecticut
 
 - 🔭 I’m currently working on **a few exciting work projects!**
 - 🌱 I’m currently learning **React.js**
-- 👨‍💻 All of my projects are available at [danielleallyssa.com](danielleallyssa.com)
-
-- 📫 How to reach me **hello@danielleallyssa.com**
-
-- 📄 Know about my experiences [danielleallyssa.com/about](danielleallyssa.com/about)
+- 👨‍💻 All of my projects are available at [danielleallyssa.com](https://www.danielleallyssa.com/)
+- 📫 Feel free to reach out via email at [hello@danielleallyssa.com](mailto:hello@danielleallyssa.com)
+- 📄 Learm more about my experience here -> [danielleallyssa.com/about](https://www.danielleallyssa.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
