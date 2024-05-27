@@ -5,7 +5,6 @@
 ### A Front-End Developer & Designer in Connecticut
 
 - 🔭 I’m currently working on **a few exciting work projects!**
-- 🌱 I’m currently learning **React.js**
 - 👨‍💻 All of my projects are available at [danielleallyssa.com](https://www.danielleallyssa.com/)
 - 📫 Feel free to reach out via email at [hello@danielleallyssa.com](mailto:hello@danielleallyssa.com)
 - 📄 Learm more about my experience here -> [danielleallyssa.com/about](https://www.danielleallyssa.com/about)
